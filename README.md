@@ -10,7 +10,7 @@ Choisir le nombre de bags dans nos datasets avec les variables nb_bag_train et n
 
 ## Démarrage
 
-Executer les différentes cellules du notebook test_techniques. 
+Executer les différentes cellules du notebook main. 
 
 ## Auteurs
 * **bega24**
